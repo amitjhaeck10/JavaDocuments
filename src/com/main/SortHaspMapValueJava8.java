@@ -1,4 +1,4 @@
-package com.company;
+package com.main;
 
 import java.util.Comparator;
 import java.util.HashMap;
@@ -25,7 +25,7 @@ public class SortHaspMapValueJava8 {
             }
         }).collect(Collectors.toMap(Map.Entry::getKey,Map.Entry::getValue,(e1,e2)->e2,LinkedHashMap::new));
 
-       sortedMap.forEach((e1,e2)-> System.out.println(e1 +":"+e2));
+       sortedMap.forEach((e1,e2)-> System.out.println(e1 +"::"+e2));
        sortedMap.entrySet().stream().forEach(e-> System.out.println(e.getKey()+":"+e.getValue()));
     }
 }

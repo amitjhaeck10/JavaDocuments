@@ -1,4 +1,4 @@
-package com.company;
+package com.main;
 
 public class SinglyLinkedListStack<T> {
 
@@ -36,11 +36,10 @@ public class SinglyLinkedListStack<T> {
     }
 
     public T top() {
-        if(head != null) {
+        if(head != null)
             return head.data;
-        } else {
+        else
             return null;
-        }
     }
 
     public int size() {
