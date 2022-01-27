@@ -1,0 +1,21 @@
+plugins {
+    id("java-library")
+}
+
+sourceCompatibility = "16.PREVIEW"
+targetCompatibility = "16.PREVIEW"
+
+group 'com.company'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.7.2'
+}
+
+test {
+    useJUnitPlatform()
+}

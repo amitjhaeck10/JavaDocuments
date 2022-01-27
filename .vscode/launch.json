@@ -1,0 +1,259 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch CoinChangeProblem",
+      "request": "launch",
+      "mainClass": "com.java.company.CoinChangeProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch GetNodePositionProblem",
+      "request": "launch",
+      "mainClass": "com.java.company.GetNodePositionProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestPalindromeProblem",
+      "request": "launch",
+      "mainClass": "com.java.company.LongestPalindromeProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestSubStringProblem",
+      "request": "launch",
+      "mainClass": "com.java.company.LongestSubStringProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergedListProblem",
+      "request": "launch",
+      "mainClass": "com.java.company.MergedListProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch PostFixExpressionSolution",
+      "request": "launch",
+      "mainClass": "com.java.company.PostFixExpressionSolution",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch PostfixEvaluation",
+      "request": "launch",
+      "mainClass": "com.java.company.PostfixEvaluation",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseListJava8",
+      "request": "launch",
+      "mainClass": "com.java.company.ReverseListJava8",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortHashMapValue",
+      "request": "launch",
+      "mainClass": "com.java.company.SortHashMapValue",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch SortHaspMapValueJava8",
+      "request": "launch",
+      "mainClass": "com.java.company.SortHaspMapValueJava8",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch StackImplementationArrayList",
+      "request": "launch",
+      "mainClass": "com.java.company.StackImplementationArrayList",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch SwitchExpressionJava14",
+      "request": "launch",
+      "mainClass": "com.java.company.SwitchExpressionJava14",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch TransferCurrencyConvertor",
+      "request": "launch",
+      "mainClass": "com.java.company.TransferCurrencyConvertor",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch fizzBuzzProblemInJava8",
+      "request": "launch",
+      "mainClass": "com.java.company.fizzBuzzProblemInJava8",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch BalanceBracketsProblem",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.BalanceBracketsProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch BalanceTreeInOrder",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.BalanceTreeInOrder",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch GameTwoStacksProblem",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.GameTwoStacksProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch LargetRectangleAreaProblem",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.LargetRectangleAreaProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch MaximumElementStack",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.MaximumElementStack",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergedSortedArraySolution",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.MergedSortedArraySolution",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumPalindrome",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.NumPalindrome",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch PriorityQueueLinkedList",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.PriorityQueueLinkedList",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch PriorityQueueSolution",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.PriorityQueueSolution",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch QueueWithTwoStack",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.QueueWithTwoStack",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimpleTextEditorProblem",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.SimpleTextEditorProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch StackMaxHeightSolution",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.StackMaxHeightSolution",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch WaiterProblem",
+      "request": "launch",
+      "mainClass": "com.java.datastructure.WaiterProblem",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch BuilderPattern",
+      "request": "launch",
+      "mainClass": "com.java.designpattern.BuilderPattern",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java10Features",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java10Features",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java12Features",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java12Features",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java13Feature",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java13Feature",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java14Features",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java14Features",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java8Programming",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java8Programming",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java9Feature",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.Java9Feature",
+      "projectName": "JavaDocuments_ab260e68"
+    },
+    {
+      "type": "java",
+      "name": "Launch java15Features",
+      "request": "launch",
+      "mainClass": "com.java.java8feature.java15Features",
+      "projectName": "JavaDocuments_ab260e68"
+    }
+  ]
+}
